@@ -331,10 +331,10 @@ Begin.
 ## Repository Statistics
 
 - **Total Files:** 8
-- **Python Files:** 2
-- **Markdown Files:** 4
-- **Configuration Files:** 2
-- **Lines of Code (approx):** ~200
+- **Python Files:** 2 (main.py, models.py)
+- **Markdown Files:** 4 (README.md, 3 prompt files)
+- **Configuration Files:** 2 (requirements.txt, .gitignore)
+- **Total Lines:** 233
 
 ---
 
