@@ -1,0 +1,12 @@
+{
+  "schema": "sha256-provenance-anchor/v1",
+  "anchor_id": "251df6e9c4d5a6569fa578ad206377c2d231419696b9a13e07fdfcfa2c15fd09",
+  "purpose": "Public hash-only no-later-than existence anchor for the sealed delivery bundle. No evidence content is published.",
+  "artifact": {
+    "label": "sealed_delivery_bundle",
+    "sha256": "251df6e9c4d5a6569fa578ad206377c2d231419696b9a13e07fdfcfa2c15fd09",
+    "size_bytes": 89967225
+  },
+  "inner_anchor_commit": "a85e8f4b95c89dbd4c2ab9c00d27c3ac08a322e1",
+  "verification_note": "The bundle is authentic to this anchor only if its SHA-256 digest exactly matches the recorded digest. GitHub commit metadata supplies the external server-recorded no-later-than time."
+}
