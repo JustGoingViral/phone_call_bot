@@ -1,0 +1,21 @@
+{
+  "schema": "sha256-provenance-anchor/v1",
+  "anchor_id": "162e9369f89b1ca5a1091487c7f1478b2ef5deed1deefd6ed18018523591573a",
+  "local_preservation_event_utc": "2026-08-07T22:42:47Z",
+  "purpose": "Public hash-only no-later-than existence anchor. No evidence content, email text, recipient names, attachment names, or privileged material is published.",
+  "artifacts": [
+    {
+      "label": "minimal_sealed_email_record_and_available_attachment",
+      "sha256": "162e9369f89b1ca5a1091487c7f1478b2ef5deed1deefd6ed18018523591573a",
+      "size_bytes": 287993,
+      "evidence_root_sha256": "0ea2c0580f581b859fcc2ebae8d9a309229f2eefea60f6562a01c7edbc0f87fc"
+    },
+    {
+      "label": "full_related_source_batch_sealed_object",
+      "sha256": "3030bed8c01a10224bb20b3e71120e17e0e2134157f5b4bb46d1cbd3c24dc74c",
+      "size_bytes": 89670638,
+      "evidence_root_sha256": "5c557bf1bd9dcf7f48a1538277e65300d020a81f4f01ac883812376e14564393"
+    }
+  ],
+  "verification_note": "A future copy verifies against this anchor only if its SHA-256 digest exactly matches the corresponding recorded digest. The GitHub commit metadata supplies an external server-recorded no-later-than time. This anchor does not independently prove authorship, original creation time, transmission, receipt, or completeness."
+}
