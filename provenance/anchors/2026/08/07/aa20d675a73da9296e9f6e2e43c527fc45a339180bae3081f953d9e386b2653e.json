@@ -1,0 +1,10 @@
+{
+  "schema": "sha256-no-later-than-anchor/v1",
+  "artifact_sha256": "aa20d675a73da9296e9f6e2e43c527fc45a339180bae3081f953d9e386b2653e",
+  "artifact_sha512": "ac663833ff4a27c8c80a8ed849cb7fd70146577bf32411261039d3e7a764cf064249340291633d6516f5e62aae49ee88d79ac25e1c98430027cfaf42bc96f5ab",
+  "artifact_size_bytes": 610633,
+  "inventory_seal_id": "1fc5cbc1c51ea3ab07ba87dfdba703fd9d094a59b14267724dc013657ad5b166",
+  "client_reported_seal_time_utc": "2026-08-07T22:47:22Z",
+  "privacy": "Hash-only anchor. No evidence content, filenames, parties, or subject matter are published.",
+  "verification": "A candidate artifact matches this anchor only if its SHA-256 digest and byte size exactly equal the values above. GitHub commit metadata supplies the independent server-recorded no-later-than time."
+}
