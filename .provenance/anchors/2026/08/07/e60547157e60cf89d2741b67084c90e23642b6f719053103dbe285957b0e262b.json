@@ -1,0 +1,22 @@
+{
+  "collection_root_sha256": "e60547157e60cf89d2741b67084c90e23642b6f719053103dbe285957b0e262b",
+  "note": "Hash-only anchor. No evidence content or descriptive filenames are published. Matching SHA-256 verifies byte identity and no-later-than existence at GitHub commit time.",
+  "payloads": [
+    {
+      "payload_id": "payload_A",
+      "sha256": "e4b314957632a812cbad6299ce87b8b967d65124637850e52dc912585c7b16cc",
+      "size_bytes": 272298
+    },
+    {
+      "payload_id": "payload_B",
+      "sha256": "cf440ca6358f51bcc8c5ca47de2b6829f977d4e48187a633daf93692407a1dc6",
+      "size_bytes": 334171
+    },
+    {
+      "payload_id": "payload_C",
+      "sha256": "b56498bb212a56f0bc14b951019e33e0c6c30ef9c440d3d8d48be56ce44b3981",
+      "size_bytes": 18013717
+    }
+  ],
+  "schema": "public-hash-anchor/v1"
+}
