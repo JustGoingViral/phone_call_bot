@@ -1,0 +1,12 @@
+{
+  "schema": "sha256-provenance-anchor/v1",
+  "purpose": "Public hash-only no-later-than existence anchor. No evidence content is published.",
+  "artifact": {
+    "label": "SEALED_EVIDENCE_OBJECT.zip",
+    "size_bytes": 273298,
+    "sha256": "1ae1a118afa39873d60d969c21b57b3aa510fe147395079624ec2953de7957ab",
+    "sha512": "5b467626cfa7fb77198d3c39d71610d4762527bf88226cd037222c58728fa65367baefc56577e55e60945fece0eb1d11b81fd4337c18fa66ffd3874a381f4bcb",
+    "canonical_manifest_sha256": "a00796f49da8e07e723088728dc6da9d2554ca031cacc255bd35e3d5fa629de8"
+  },
+  "verification_note": "A future copy matches this anchor only if its byte length and SHA-256 digest match exactly. GitHub commit metadata supplies an external server-recorded no-later-than time. This record does not establish authorship, sender identity, delivery, or admissibility."
+}
