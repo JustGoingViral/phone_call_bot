@@ -1,0 +1,8 @@
+{
+  "schema": "outer-package-anchor/v1",
+  "outer_package_sha256": "85e4e25a8b3b507b39d74d4dce82e9079e87daeb6d4e7f8c5e6c4bac98acfec1",
+  "outer_package_size_bytes": 18629776,
+  "collection_root_sha256": "e60547157e60cf89d2741b67084c90e23642b6f719053103dbe285957b0e262b",
+  "payload_anchor_commit": "9840d6e95d043b25290dea81c10a168c2e6950d8",
+  "note": "Hash-only anchor for the exact final ZIP bytes. No evidence content is published."
+}
